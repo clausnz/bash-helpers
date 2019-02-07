@@ -1,4 +1,4 @@
-# bash-helpers
+# bash-helpers (DRAFT)
 
 ## Install
 Add the following snippet to your shell-script to include the helper functions:
